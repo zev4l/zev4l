@@ -9,7 +9,7 @@
 Final year IT student @ FCUL. Interested in cybersecurity, algorithms, distributed systems, machine learning and general backend development. 
 <br>
 This is where a good half of my projects end up, for posterity.
-* ⚙️ Currently learning: C++, Vue.JS
+* ⚙️ Currently learning: C++, Vue.JS, Flutter + Dart
 
 <details>
 <summary>🛠 Technology I use</summary>
