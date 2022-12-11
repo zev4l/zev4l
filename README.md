@@ -6,10 +6,12 @@
 ## 📙 About me
 
 
-Master's student @ IST. Interested in cybersecurity, algorithms, distributed systems, machine learning and general backend development. 
+Backend Developer @ [Sky](https://www.sky.com/), Master's student @ [IST](https://tecnico.ulisboa.pt/en/). 
+
+Interested in cybersecurity, algorithms, distributed systems, machine learning and general backend development. 
 <br>
 This is where a good half of my projects end up, for posterity.
-* ⚙️ Currently learning: C++, Vue.JS, Flutter + Dart
+* ⚙️ Currently learning: Rust, and (mainly) Go.
 
 <details>
 <summary>🛠 Technology I use</summary>
