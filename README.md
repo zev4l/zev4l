@@ -1,6 +1,8 @@
 # zeval's hub <img align="right" src="https://user-images.githubusercontent.com/57680069/154738936-5876c9d5-25c4-4ba9-8f72-d934c5f28fbc.gif" width="300" height="300"/>
 [![Linkedin Badge](https://img.shields.io/badge/-zeval-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zeval/)](https://www.linkedin.com/in/zeval/)
 [![Website Badge](https://img.shields.io/badge/-zeval.pt-9966CB?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://zeval.pt)
+[![Website Badge](https://img.shields.io/badge/-augusto.mgou.pt-9966CB?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://augusto.mgou.pt)
+
 
 ## 📙 About me
 
