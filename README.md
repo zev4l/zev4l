@@ -1,9 +1,8 @@
-# zeval's hub <img align="right" src="https://user-images.githubusercontent.com/57680069/154738936-5876c9d5-25c4-4ba9-8f72-d934c5f28fbc.gif" width="300" height="300"/>
+# zeval's hub
 [![Linkedin Badge](https://img.shields.io/badge/-zeval-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zeval/)](https://www.linkedin.com/in/zeval/)
 [![Website Badge](https://img.shields.io/badge/-zeval.pt-9966CB?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://zeval.pt)
 
-## 📙 About me
-
+## 📙 About me <img align="right" src="https://user-images.githubusercontent.com/57680069/154738936-5876c9d5-25c4-4ba9-8f72-d934c5f28fbc.gif" width="300" height="300"/>
 
 Backend Developer @ [Sky](https://www.sky.com/), Master's student @ [IST](https://tecnico.ulisboa.pt/en/). 
 
@@ -26,6 +25,6 @@ This is where a good half of my projects end up, for posterity.
   
   ### 🔐 ID me with this! (Public RSA Fingerprint)
   ```
-  2048 SHA256:A+Hzwmfp82HVFcTAwKIa1dDOMEfbVAHZx4u7LKa/bV0 fc55373@alunos.fc.ul.pt (RSA)
+  2048 SHA256:A+Hzwmfp82HVFcTAwKIa1dDOMEfbVAHZx4u7LKa/bV0 jose.v.almeida@tecnico.ulisboa.pt (RSA)
   ```
 </details>
