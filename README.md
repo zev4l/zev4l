@@ -28,4 +28,5 @@ This is where a good half of my projects end up, for posterity.
   2048 SHA256:A+Hzwmfp82HVFcTAwKIa1dDOMEfbVAHZx4u7LKa/bV0 jose.v.almeida@tecnico.ulisboa.pt (RSA)
   ```
 </details>
+
 ![](https://hit.yhype.me/github/profile?user_id=57680069)
